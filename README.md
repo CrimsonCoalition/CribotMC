@@ -1,6 +1,6 @@
 ![pngwing com (5)](https://user-images.githubusercontent.com/85753549/181843191-6a656b2c-3df9-4d24-bccf-4369a6458141.png)
 
-# ***Helbot by Crimson Coalition***
+# ***🤖 Helbot by Crimson Coalition***
 
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.1-blue.svg?cacheSeconds=2592000" />
