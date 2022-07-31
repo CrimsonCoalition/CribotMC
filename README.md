@@ -1,4 +1,4 @@
-![pngwing com (5)](https://user-images.githubusercontent.com/85753549/181843191-6a656b2c-3df9-4d24-bccf-4369a6458141.png)
+![pngwing com (5)](https://user-images.githubusercontent.com/85753549/181843191-6a656b2c-3df9-4d24-bccf-4369a6458141.png)  
 
 # ***🤖 CribotMC by Crimson Coalition***
 
@@ -14,6 +14,8 @@
     <img alt="License: GPL3" src="https://img.shields.io/github/license/CrimsonCoalition/CribotMC" />
   </a>
 </p>
+
+> Данный проект находится в разработке!
 
 # ***Описание***
 ***CribotMC - многофунциональный бот для Minecraft написанный на Python.***
