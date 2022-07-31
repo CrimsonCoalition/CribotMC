@@ -31,4 +31,9 @@ cd fastmc
 python setup.py install
 ```
 
+### ***Установите CribotMC***
 
+```bash
+git clone https://github.com/CrimsonCoalition/CribotMC.git
+cd CribotMC
+```
