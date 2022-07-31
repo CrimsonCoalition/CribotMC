@@ -1,0 +1,9 @@
+[main]
+server: server.org
+username: user@blah.org
+password: qwerty123
+
+[localhost]
+server: localhost
+username: mydude
+auth_enabled: false
