@@ -24,5 +24,11 @@
 - ***Python***
 - ***Git***
 
+### ***Установите FastMC***
+```bash
+git clone https://github.com/dividuum/fastmc.git
+cd fastmc
+python setup.py install
+```
 
 
