@@ -39,3 +39,6 @@ python setup.py install
 git clone https://github.com/CrimsonCoalition/CribotMC.git
 cd CribotMC
 ```
+
+### ***Запустите CrimsonBot***
+./CribotMC -c functions/mining.yaml
