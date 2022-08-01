@@ -41,4 +41,7 @@ cd CribotMC
 ```
 
 ### ***Запустите CrimsonBot***
+
+```bash
 ./CribotMC -c functions/mining.yaml
+```
