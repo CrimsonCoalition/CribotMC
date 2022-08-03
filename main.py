@@ -12,7 +12,7 @@ import yaml
 
 def start_auto_bot(host, username, password, actions, port=25565, auth=True,
                    chat=False):
-    client = peon.Client()
+    client = CribotMC.Client()
     client.connect(host, username, password, port, auth)
     bot = client.bot
     time.sleep(1)
