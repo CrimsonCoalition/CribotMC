@@ -33,6 +33,8 @@ cd fastmc
 python setup.py install
 ```
 
+# Функционал
+
 
 ### ***Установите CribotMC***
 
