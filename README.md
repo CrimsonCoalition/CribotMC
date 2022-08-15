@@ -33,7 +33,6 @@ cd fastmc
 python setup.py install
 ```
 
-# Функционал
 
 
 ### ***Установите CribotMC***
@@ -48,3 +47,6 @@ cd CribotMC
 ```bash
 ./CribotMC -c functions/mining.yaml
 ```
+
+
+# Функционал
